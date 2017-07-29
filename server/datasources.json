@@ -1,0 +1,8 @@
+{
+  "ah": {
+    "name": "ah",
+    "localStorage": "",
+    "file": "",
+    "connector": "memory"
+  }
+}
